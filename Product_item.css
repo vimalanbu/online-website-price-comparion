@@ -1,0 +1,180 @@
+body{
+    background-color: #eae7dc;
+    
+}
+/*  MOBILE PRODUCT SECTION START */
+.btn1 {
+    border-radius: 10px;
+    margin-left: 35px;
+    margin-top: 15%;
+    
+      
+}
+
+.btn1 a{
+    text-decoration: none;
+    padding: 4px;
+    font-weight: bold;
+}
+
+.btn1 a:hover{
+        color: red;
+        text-decoration-line: underline;
+        
+}
+
+.Mobile_Product{
+    background-image: url(../home_page_images/mobile4.jpg) ;
+    border: 1px solid gray;
+    background-size:100% 100%;
+    height: 300px;
+    border-radius: 7px;
+    margin-top: 20px;
+    background-repeat: no-repeat;
+    margin-left: 25%;
+}
+.Product-item1 {
+    font-weight: bolder;
+    color: white;
+    border: 1px solid white;
+    border-radius: 10px;
+    padding: 5px;
+    position: absolute;
+    margin-top: 7%;
+    margin-left: 5px;
+    border: none; 
+}
+
+/*  MOBILE PRODUCT SECTION END */
+
+/*  HOME PRODUCT SECTION START */
+.Home_Product{
+    background-image: url(../home_page_images/home2.jpg) ;
+    border: 1px solid gray;
+    background-size:100% 100%;
+    height: 300px;
+    border-radius: 7px;
+    margin-top: 20px;
+    background-repeat: no-repeat;
+    margin-right: 25%;
+}
+.Product-item2 {
+    font-weight: bolder;
+    color: white;
+    border: 1px solid white;
+    border-radius: 10px;
+    padding: 5px;
+    position: absolute;
+    margin-top: 2%;
+    margin-left: 850px;
+    border: none; 
+}
+.btn2 {
+    border-radius: 10px;
+    margin-left: 900px;
+    margin-top: 8%;
+    
+      
+}
+
+.btn2 a{
+    text-decoration: none;
+    padding: 4px;
+    font-weight: bold;
+}
+
+.btn2 a:hover{
+        color: red;
+        text-decoration-line: underline;
+        
+}
+
+/*  HOME PRODUCT SECTION END */
+
+/*  MAKEUP PRODUCT SECTION START */
+.btn3 {
+    border-radius: 10px;
+    margin-left: 35px;
+    margin-top: 15%;
+    
+      
+}
+
+.btn3 a{
+    text-decoration: none;
+    padding: 4px;
+    font-weight: bold;
+}
+
+.btn3 a:hover{
+        color: red;
+        text-decoration-line: underline;
+        
+}
+
+.Makeup_Product{
+    background-image: url(../home_page_images/makeup2.jpg) ;
+    border: 1px solid gray;
+    background-size:100% 100%;
+    height: 300px;
+    border-radius: 7px;
+    margin-top: 20px;
+    background-repeat: no-repeat;
+    margin-left: 25%;
+}
+.Product-item3 {
+    font-weight: bolder;
+    color: white;
+    border: 1px solid white;
+    border-radius: 10px;
+    padding: 5px;
+    position: absolute;
+    margin-top: 7%;
+    margin-left: 5px;
+    border: none; 
+}
+
+/*  MAKEUP PRODUCT SECTION END */
+
+/*  TOYS PRODUCT SECTION START */
+.Toys_Product{
+    background-image: url(../home_page_images/toys_img1.jpg) ;
+    border: 1px solid gray;
+    background-size:100% 100%;
+    height: 300px;
+    border-radius: 7px;
+    margin-top: 20px;
+    background-repeat: no-repeat;
+    margin-right: 25%;
+}
+.Product-item4 {
+    font-weight: bolder;
+    color: black;
+    border: 1px solid white;
+    border-radius: 10px;
+    padding: 5px;
+    position: absolute;
+    margin-top: 2%;
+    margin-left: 900px;
+    border: none; 
+}
+.btn4 {
+    border-radius: 10px;
+    margin-left: 925px;
+    margin-top: 8%;
+    
+      
+}
+
+.btn4 a{
+    text-decoration: none;
+    padding: 4px;
+    font-weight: bold;
+}
+
+.btn4 a:hover{
+        color: red;
+        text-decoration-line: underline;
+        
+}
+/*  TOYS PRODUCT SECTION END */

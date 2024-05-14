@@ -1,0 +1,18 @@
+#heading{
+    color: tomato;
+    font-weight: bolder;
+    margin-top: 2px;
+    padding: 5px;
+    text-align: center;
+    justify-content: center;
+    margin-left: 25%;
+    margin-right: 25%;
+    font-size: 25;
+    padding:10px;
+    transition-property: text-decoration-line  ;
+    transition-duration: 1s;
+}
+
+#heading:hover{
+    text-decoration-line: underline;
+}
